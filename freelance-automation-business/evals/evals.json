@@ -1,0 +1,23 @@
+{
+  "skill_name": "freelance-automation-business",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Found this on Upwork: 'Need someone to fix our Python scraper that pulls product prices from a supplier site. Worked fine for a year, broke last Tuesday. Budget $200. Payment verified, 4.8 stars, 32 hires.' Worth bidding? If so write the proposal.",
+      "expected_output": "A job score with bid verdict and reasoning, a suggested fixed price, and a 120-200 word proposal that references the specific breakage, gives a 2-3 step plan, states price/date/inclusions, and ends with one smart question.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "My Fiverr client just messaged: 'This is great!! One thing - can you also make it email me the report every morning? Shouldn't take long right?' The original gig was a $120 script that generates the report on demand. Draft my reply.",
+      "expected_output": "An affirm-anchor-quote scope-change reply: agrees it's doable, anchors to the original scope, quotes the addition as a priced add-on, drafted for the human to send with a context tag line.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "daily freelance hour - I've got 2 new job postings pasted below, one client revision request, and the CSV cleaner for Marcus is code-complete but I haven't packaged it. [postings and message pasted here]",
+      "expected_output": "Runs the daily operating loop: scores both postings with verdicts, drafts the revision reply, packages the deliverable with QA checklist results and a README, flags any retainer candidates, and ends with a single numbered Review & Send list of [SEND]/[REVIEW]/[DECIDE] items.",
+      "files": []
+    }
+  ]
+}
