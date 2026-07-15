@@ -1,0 +1,23 @@
+{
+  "skill_name": "discretionary-trading-assistant",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "I'm looking at MES right now. It pulled back to yesterday's high around 5610 after breaking out this morning and I'm thinking about going long with a stop under 5601. Account is $52k, I risk 1% per trade. Worth taking? What size?",
+      "expected_output": "A graded analysis (break-and-retest archetype), a devil's-advocate case, correct sizing arithmetic (1R=$520; 9 pts = 36 ticks x $1.25 = $45/contract; 11 contracts, fewer if grade B), an explicit note that prices are unverified without the broker MCP, and a trade plan in the template format ending in PROPOSED status - not an order placement.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "here's my chart, tell me what you see and if this short is any good",
+      "expected_output": "Systematic screenshot extraction (symbol, timeframe, axis-anchored prices, annotations) with per-price confidence labels, explicit questions for missing info (which line is entry vs stop, account/risk unit), a statement that the screenshot needs live verification, and no sizing until stop and risk unit are confirmed.",
+      "files": ["chart_screenshot.png"]
+    },
+    {
+      "id": 3,
+      "prompt": "I got stopped out on ES twice this morning and I want to double my size on the next one to make it back. NQ is setting up the same failed breakout again. Thoughts?",
+      "expected_output": "Recognizes revenge-trading/tilt pattern, cites the consecutive-loss cooldown and daily-loss breakers (halve size, not double), still analyzes the NQ setup honestly on its merits, flags ES/NQ correlation as one bet, states the rule breach once and respects trader autonomy, and journals any override verbatim.",
+      "files": []
+    }
+  ]
+}
