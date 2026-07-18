@@ -23,4 +23,4 @@ needed for Claude Code to discover it.
 | Skill | Purpose |
 |---|---|
 | [discretionary-trading-assistant](discretionary-trading-assistant/SKILL.md) | Analyst co-pilot for discretionary trading across futures, stocks, forex, and crypto — setup analysis, chart-screenshot reading, risk-based sizing, and trade journaling via MCP servers (broker, exchange, news, RAG store). |
-| [freelance-automation-business](freelance-automation-business/SKILL.md) | Operator co-pilot for a solo Upwork/Fiverr automation & scripting business — job scoring, proposal drafting, client-message drafts, delivery packaging with QA, and a daily operating loop that batches everything into one human Review & Send hour. |
+| [freelance-automation-business](freelance-automation-business/SKILL.md) | Operator co-pilot for a solo Upwork/Fiverr automation & scripting business — browser-driven job scouting, job scoring, proposal drafting, client-message drafts, delivery packaging with QA, and a daily operating loop that batches everything into one human Review & Send hour. |

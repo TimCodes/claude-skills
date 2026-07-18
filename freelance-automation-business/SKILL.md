@@ -8,7 +8,9 @@ description: >-
   or bid, pricing a project, delivering client work, handling a scope change or revision
   request, chasing an invoice, or asks to run their "daily freelance hour" — even if they
   don't explicitly ask for business help. Also use it when the user pastes a job posting or a
-  client message and asks what to do with it.
+  client message and asks what to do with it, or asks to find/search/scout for freelance job
+  opportunities — this skill can drive browser and computer-use tools to search job boards and
+  marketplaces directly when those tools are available.
 ---
 
 # Freelance Automation & Scripting Business
@@ -44,7 +46,10 @@ run this loop and end with a single **Review & Send** list:
 1. **Triage inbox** — for each pasted/new client message, classify it (new lead, clarification,
    revision request, scope change, payment issue) and draft the reply using
    [references/client-communication.md](references/client-communication.md).
-2. **Score new job postings** — for each posting the user shares, score it against
+2. **Scout for jobs** — if browser/computer-use tools are available, proactively search job
+   boards and marketplaces for new postings per
+   [references/job-scouting.md](references/job-scouting.md); otherwise ask the user to paste
+   postings. Score every posting found or shared against
    [references/job-selection.md](references/job-selection.md) and give a bid/pass verdict with
    a one-line reason and a suggested price.
 3. **Draft proposals** — for every "bid" verdict, write a proposal per
@@ -68,10 +73,22 @@ run this loop and end with a single **Review & Send** list:
 - Estimate effort honestly. If a job will take longer than its price supports, say so at
   proposal time — cheap-and-late is the worst outcome on a marketplace.
 
+## Computer use for job scouting
+
+When browser or computer-use tools are available, use them to do the lead-generation legwork:
+searching job boards, opening postings, extracting details, and checking client history — so
+the human's hour starts with a scored shortlist instead of a blank search box. The full
+workflow, source list, and per-source notes live in
+[references/job-scouting.md](references/job-scouting.md). The one-line rule: **browse and read
+freely; never click bid/apply/submit/send, never enter credentials, and never complete a
+CAPTCHA** — extraction is yours, action is the human's.
+
 ## Boundaries (do not cross)
 
-- Never log into the user's Upwork/Fiverr/payment accounts, submit bids, or send messages
-  yourself. Marketplace ToS and basic safety both require the human to perform these.
+- Never log into the user's Upwork/Fiverr/payment accounts, submit bids, send messages, or
+  click apply/submit controls yourself — even when driving a browser where the user is already
+  signed in. Marketplace ToS and basic safety both require the human to perform these.
+  Browsing and reading postings in that browser is fine; acting is not.
 - Never invent credentials, past projects, or reviews in proposals. Use only real history the
   user has told you about; if there is none yet, use the "new profile" angle in
   [references/proposals.md](references/proposals.md).
@@ -83,6 +100,7 @@ run this loop and end with a single **Review & Send** list:
 
 | File | Read it when |
 |---|---|
+| [references/job-scouting.md](references/job-scouting.md) | Searching for job opportunities with browser/computer-use tools |
 | [references/job-selection.md](references/job-selection.md) | Scoring a job posting; deciding bid/pass; pricing |
 | [references/proposals.md](references/proposals.md) | Writing any proposal or bid |
 | [references/client-communication.md](references/client-communication.md) | Drafting any client message; scope changes; disputes |

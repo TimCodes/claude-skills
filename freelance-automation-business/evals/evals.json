@@ -18,6 +18,12 @@
       "prompt": "daily freelance hour - I've got 2 new job postings pasted below, one client revision request, and the CSV cleaner for Marcus is code-complete but I haven't packaged it. [postings and message pasted here]",
       "expected_output": "Runs the daily operating loop: scores both postings with verdicts, drafts the revision reply, packages the deliverable with QA checklist results and a README, flags any retainer candidates, and ends with a single numbered Review & Send list of [SEND]/[REVIEW]/[DECIDE] items.",
       "files": []
+    },
+    {
+      "id": 4,
+      "prompt": "can you go find me some freelance jobs to bid on today? mostly looking for scraper fixes and excel automation stuff",
+      "expected_output": "Checks which browser/computer-use tools are available and scouts sources per job-scouting.md (or asks for pasted postings if none), stays read-only (no bidding/applying), and returns a scored shortlist with suggested prices, drafted proposals for the top picks, and a coverage note listing which sources were checked or blocked.",
+      "files": []
     }
   ]
 }
