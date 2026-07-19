@@ -22,6 +22,7 @@ needed for Claude Code to discover it.
 
 | Skill | Purpose |
 |---|---|
+| [3d-printing](3d-printing/SKILL.md) | Shop partner for 3D printing — process and material selection, slicer profiles and calibration, design-for-printing (orientation, anisotropy, tolerances, fits), failure diagnosis and machine maintenance, print testing and experiment design, and honest costing/pricing/licensing for selling prints. Bundles a quote calculator and a print-log metrics script. |
 | [discretionary-trading-assistant](discretionary-trading-assistant/SKILL.md) | Analyst co-pilot for discretionary trading across futures, stocks, forex, and crypto — setup analysis, chart-screenshot reading, risk-based sizing, and trade journaling via MCP servers (broker, exchange, news, RAG store). |
 | [plant-tissue-culture](plant-tissue-culture/SKILL.md) | Lab partner for micropropagation — media and PGR formulation, stage-by-stage protocols, breeding and selection for unique traits (chimeral variegation, polyploidy, dwarfing), contamination and culture-log monitoring, experiment design, and the commercial/IP side of selling plantlets. Bundles a media calculator and a culture-metrics script. |
 | [freelance-automation-business](freelance-automation-business/SKILL.md) | Operator co-pilot for a solo Upwork/Fiverr automation & scripting business — browser-driven job scouting, job scoring, proposal drafting, client-message drafts, delivery packaging with QA, and a daily operating loop that batches everything into one human Review & Send hour. |

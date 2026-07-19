@@ -1,0 +1,16 @@
+job_id,date,printer,material,filament_g,print_hours,status,failure_cause,parts,post_hours,profile,nozzle,notes
+J-2026-0412,2026-04-12,bambu-01,PLA,142,6.4,success,,4,0.3,standard-0.2,0.4 brass,Client batch - enclosure lids
+J-2026-0413,2026-04-13,bambu-01,PETG,208,9.1,success,,2,0.8,strong-0.2,0.4 brass,Support removal slow on this geometry
+J-2026-0414,2026-04-14,ender-02,PETG,61,3.0,failed,adhesion,0,0.0,standard-0.2,0.4 brass,Lifted at corner ~1h in; bed not cleaned
+J-2026-0415,2026-04-15,ender-02,PETG,190,8.7,success,,3,0.6,standard-0.2,0.4 brass,Washed bed with soap first - fine
+J-2026-0418,2026-04-18,voron-01,ASA,320,14.2,success,,1,1.2,strong-0.24,0.6 hardened,Outdoor bracket; enclosure at 45C
+J-2026-0419,2026-04-19,ender-02,PLA,88,4.1,failed,layer shift,0,0.0,standard-0.2,0.4 brass,Shift at ~60mm; checked belts after
+J-2026-0421,2026-04-21,ender-02,PLA,88,4.1,success,,6,0.4,standard-0.2,0.4 brass,Reprint after belt re-tension
+J-2026-0422,2026-04-22,bambu-01,PA-CF,265,11.5,success,,2,0.9,strong-0.24,0.6 hardened,Gears; dried 8h at 75C first
+J-2026-0425,2026-04-25,ender-02,PETG,74,3.4,failed,clog,0,0.0,standard-0.2,0.4 brass,Partial clog; nozzle at ~600h - replaced
+J-2026-0426,2026-04-26,voron-01,ASA,298,13.0,success,,1,1.1,strong-0.24,0.6 hardened,
+J-2026-0428,2026-04-28,bambu-01,PLA,156,7.0,success,,8,0.5,draft-0.28,0.4 brass,Market stock - articulated
+J-2026-0502,2026-05-02,ender-02,PLA,102,4.8,failed,adhesion,0,0.0,standard-0.2,0.4 brass,Third adhesion failure on this machine
+J-2026-0503,2026-05-03,bambu-01,PETG,180,8.2,success,,3,0.7,standard-0.2,0.4 brass,
+J-2026-0506,2026-05-06,voron-01,PC,340,15.8,success,,1,1.4,strong-0.24,0.6 hardened,High-temp fixture; 300C nozzle
+J-2026-0509,2026-05-09,ender-02,PLA,95,4.4,success,,5,0.4,standard-0.2,0.4 brass,New PEI sheet fitted - adhesion resolved
