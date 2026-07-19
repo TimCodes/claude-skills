@@ -1,0 +1,13 @@
+batch_id,date,genotype,stage,subculture_no,vessels_in,explants_in,vessels_clean,explants_out,contaminated_bacterial,contaminated_fungal,contaminated_other,off_type,medium_id,operator,notes
+MON-ALB-2026-01-A,2026-01-12,Monstera deliciosa 'Albo-Variegata',I,0,40,40,26,24,9,5,0,0,MS-BAP05,TC,Nodal explants from mother MDA-03; 15 min 1.0% NaOCl
+MON-ALB-2026-02-A,2026-02-18,Monstera deliciosa 'Albo-Variegata',II,1,24,24,24,58,0,0,0,7,MS-BAP10,TC,7 shoots culled fully reverted green
+MON-ALB-2026-03-A,2026-03-25,Monstera deliciosa 'Albo-Variegata',II,2,51,51,50,119,1,0,0,14,MS-BAP10,TC,Reversion steady ~12%; balance good
+PHI-PIN-2026-01-A,2026-01-20,Philodendron 'Pink Princess',I,0,36,36,20,18,12,4,0,0,MS-BAP05,TC,Heavy browning first 5 days; moved to dark + PVP
+PHI-PIN-2026-02-A,2026-02-26,Philodendron 'Pink Princess',II,1,18,18,18,41,0,0,0,6,MS-BAP15,TC,Some over-white shoots culled - no chloroplasts
+ANT-CRY-2026-02-A,2026-02-05,Anthurium crystallinum,I,0,30,30,27,27,2,1,0,0,MS-BAP05,JR,Clean establishment; good mother stock prep
+ANT-CRY-2026-03-A,2026-03-14,Anthurium crystallinum,II,1,27,27,26,79,1,0,0,0,MS-BAP10,JR,Strong multiplication 2.9x
+ANT-CRY-2026-04-A,2026-04-19,Anthurium crystallinum,II,2,79,79,77,241,0,2,0,1,MS-BAP10,JR,Consistent; ready to split line
+ANT-CRY-2026-05-A,2026-05-24,Anthurium crystallinum,III,3,60,60,59,57,1,0,0,0,HALFMS-IBA10,JR,IBA pulse 48h then PGR-free; roots at day 12
+ANT-CRY-2026-06-A,2026-06-28,Anthurium crystallinum,IV,3,57,57,57,52,0,0,0,0,EXVITRO,JR,Deflasked; 91% survival at 4 weeks
+ALO-POL-2026-03-A,2026-03-08,Alocasia 'Polly',II,9,44,44,42,88,1,1,0,3,MS-BAP10,JR,Line ageing - plan restart from mother block
+ALO-POL-2026-04-A,2026-04-12,Alocasia 'Polly',II,10,88,88,85,171,2,1,0,9,MS-BAP10,JR,Off-type rising; restart initiated from MB-ALO-01
