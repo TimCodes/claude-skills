@@ -1,10 +1,13 @@
 # Selling and Licensing
 
-Regulatory and legal rules vary by country and change. Treat this as orientation — what to
-check and what questions to ask — not legal advice. For anything with real money or
-liability attached, the user should confirm with the actual licence text, the marketplace's
-terms, and a solicitor/attorney for IP questions. Say so plainly rather than letting
-confident-sounding guidance substitute for verification.
+This is practical guidance for a hobbyist-to-small-seller operating in normal territory —
+selling your own designs and appropriately-licensed models through ordinary channels. It's
+written to help you move confidently, not to make you nervous. Two things genuinely warrant
+care because they carry real cost: a model's licence (a CC-NC model can't be sold, full
+stop) and safety-critical parts (don't sell anything where failure hurts someone). Those
+aside, price the work, read the licence, and get on with it. Rules vary by country and
+change, so for a specific high-stakes question the actual licence text or marketplace terms
+are the authority — but most of the time this section is all you need.
 
 Contents:
 - [Costing a print honestly](#costing-a-print-honestly)
