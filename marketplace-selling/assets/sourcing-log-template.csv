@@ -1,0 +1,4 @@
+lot_id,date,supplier,source_type,product_category,lot_price,inbound_shipping,units_bought,manifest_retail,condition_grade,gating_checked,invoice_ok,units_sold,revenue_to_date,units_dead,notes
+LOT-2026-05-01,2026-05-04,B-Stock (RetailerX),liquidation,kitchen gadgets,180.00,45.00,60,1240.00,customer-return,yes,no,41,910.00,7,Amazon gated - selling on FB + own site instead
+LOT-2026-05-02,2026-06-01,Direct closeout,overstock,phone accessories,220.00,0.00,100,900.00,new,yes,yes,63,780.00,0,Clean invoices; un-gated on Amazon
+LOT-2026-06-01,2026-06-20,Local auction,local,mixed homeware,90.00,0.00,35,,unmanifested,n/a,n/a,22,410.00,4,Unmanifested gamble; flipping local
