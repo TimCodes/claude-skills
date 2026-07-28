@@ -156,12 +156,13 @@ shared. Business models that assume otherwise tend to disappoint.
   liability is real and so is the risk.
 - **Medical or dental devices** — regulated, and requiring biocompatible certified
   materials and process validation.
-- **Food-contact items**, unless the user has genuinely handled it. The honest position:
-  FDM parts have microscopic layer crevices that harbour bacteria and cannot be reliably
-  cleaned; "food-safe filament" does not make a food-safe part, since the nozzle, the
-  printing process and any pigment also matter. A food-contact-safe printed item generally
-  requires an appropriate material, a smooth or sealed surface, and often a food-safe
-  coating — and single-use or non-porous alternatives are usually the better answer.
+- **Food-contact items** are fine to make and sell — just do them properly, because one
+  thing here is genuinely counterintuitive: **"food-safe filament" does not make a food-safe
+  part.** The gap is the layer crevices, which harbour bacteria and can't be reliably
+  cleaned, plus the nozzle (brass leaches lead — use stainless) and any pigment. The recipe
+  that works: an appropriate material, a smooth or sealed surface, and a food-safe epoxy or
+  resin coating over the print. For repeated-use items that's the way; for one-off or dry
+  contact (a cookie cutter, a dry-goods scoop) a well-printed part is usually fine as-is.
 - **Toys for young children**, without checking toy-safety rules (CPSIA in the US, EN 71 in
   the EU) — small parts, choking hazards and chemical testing all apply.
 
