@@ -1,0 +1,6 @@
+ticker,name,asset_class,value,expense_ratio
+VTI,Vanguard Total US Stock Market ETF,US Equity,42000,0.03
+VXUS,Vanguard Total International Stock ETF,Intl Equity,18000,0.07
+BND,Vanguard Total Bond Market ETF,US Bonds,22000,0.03
+VNQ,Vanguard Real Estate ETF,Real Estate,6000,0.13
+VMFXX,Vanguard Federal Money Market,Cash,12000,0.11
